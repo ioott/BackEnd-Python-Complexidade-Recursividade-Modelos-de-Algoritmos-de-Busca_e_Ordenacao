@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Projeto Algoritmos
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">    
+
+Este é um projeto desenvolvido como parte do curso de Desenvolvimento Web Full Stack da Trybe. O objetivo deste projeto é praticar os conceitos de algoritmos, incluindo análise de complexidade, recursão e algoritmos de ordenação e busca.
+
+O projeto consiste na resolução de diferentes problemas utilizando algoritmos. Além disso, é necessário analisar a complexidade dos algoritmos utilizados em cada problema, a fim de otimizá-los e melhorar sua eficiência.
+
+Envolve habilidades de: 
+* Lógica;
+* Capacidade de interpretação do problema;
+* Capacidade de interpretação de um código legado;
+* Capacidade de resolução do problema, de forma otimizada;
+* Resolver o problemas/Otimizar algoritmos mesmo sob pressão.
